@@ -1,8 +1,6 @@
-This is a README for the Coller Capital Data Scientist take home test. 
+In the folder you should find a ipynb as well as a utils.py, a test.py file and a saved model.
 
-In the folder you should find a ipynb of the same name as well as a utils.py, a test.py file and a saved model.
-
-- Coller Capital - Data Scientist - Take Home Test (ipynb): The notebook containing the analysis. Contains commentary so hopefully it should make reading the code easier. 
+- Notebook (ipynb): The notebook containing the analysis. Contains commentary so hopefully it should make reading the code easier. 
 - utils (.py): File containing the utility functions used throughout the analysis 
 - tests (.py): File containing some tests for the analysis 
 - saved model (JSON): JSON file of the best model that has been saved. 
